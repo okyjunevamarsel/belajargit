@@ -1,2 +1,4 @@
 senin : boostrap, GIT
 selasa : SIM
+rabu : kosong
+kamis : belajar GNS3
