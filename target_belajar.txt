@@ -3,3 +3,5 @@ selasa : SIM
 
 kamis : belajar GNS3
 jumat : triger DB
+sabtu : adnan(rebahan)
+minggu : adnan(ke warnet)
